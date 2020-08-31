@@ -1,0 +1,25 @@
+.logo{width: 500px}
+.topbar{display: flex; background-color: black;}
+.topbar img{width: 20%; cursor: pointer;}
+.topbar nav{width: 80%;}
+
+
+.topbar{text-align: center;}
+.topbar nav{
+    
+    text-align: right;
+    padding: 10px;
+}
+.topbar nav a{
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 10px;
+}
+.topbar nav a:hover{
+    background-color: darkgray;
+    color: black;
+}
+
+.logo img{}

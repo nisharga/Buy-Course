@@ -1,0 +1,19 @@
+.singleCourse{display: flex;
+margin-bottom: 20px;
+border-bottom: 2px solid powderblue;
+padding-bottom: 15px;
+}
+.image{width: 40%; float: left;}
+.image img{width: 100%;}
+.other{width: 60%;}
+
+.other h2, 
+.other h1,
+.other p{text-align: left;
+margin-left: 20px;}
+
+.other button{
+text-align: left !important;
+margin-left: 20px !important;
+float: left;
+}
